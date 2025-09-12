@@ -3,7 +3,7 @@ name: Create Release
 on:
   push:
     branches:
-      - bp-715-firstdraft-pico
+      - main
     paths:
       - 'package.json'
 
