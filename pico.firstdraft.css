@@ -16,7 +16,7 @@ body.pico {
 
 /* Navbar styling */
 body.pico > header {
-  background-color: var(--pico-color-grey-50);
+  background-color: #f5f5f5;
 }
 
 /* Main content should grow to fill available space */
@@ -30,7 +30,7 @@ body.pico > main {
 body.pico > footer {
   padding-top: calc(var(--pico-spacing) * 3);
   padding-bottom: calc(var(--pico-spacing) * 3);
-  background-color: var(--pico-color-grey-150);
+  background-color: #e5e5e5;
   margin-top: auto; /* Push footer to bottom */
 }
 
