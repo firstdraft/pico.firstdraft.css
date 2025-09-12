@@ -1,0 +1,26 @@
+{
+  "name": "pico-firstdraft-css",
+  "version": "0.0.1",
+  "description": "Pico and Bootstrap utilities CSS stylesheets for FirstDraft projects",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firstdraft/pico.firstdraft.css.git"
+  },
+  "files": [
+    "pico.firstdraft.css",
+    "bootstrap-utilities.css"
+  ],
+  "keywords": [
+    "css",
+    "pico",
+    "bootstrap",
+    "utilities",
+    "firstdraft"
+  ],
+  "author": "First Draft",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/firstdraft/pico.firstdraft.css/issues"
+  },
+  "homepage": "https://github.com/firstdraft/pico.firstdraft.css#readme"
+}
