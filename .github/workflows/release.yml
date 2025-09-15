@@ -45,9 +45,6 @@ jobs:
             ```html
             <!-- Pico FirstDraft CSS -->
             <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/firstdraft/pico.firstdraft.css@v${{ steps.version.outputs.version }}/pico.firstdraft.css">
-            
-            <!-- Bootstrap Utilities CSS -->
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/firstdraft/pico.firstdraft.css@v${{ steps.version.outputs.version }}/bootstrap-utilities.css">
             ```
           draft: false
           prerelease: false
