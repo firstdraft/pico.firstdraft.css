@@ -10,6 +10,12 @@ The stylesheet can be linked by:
 
 Where `@0.0.1` is the version number from the `package.json` file. Anytime an edit is made to `pico.firstdraft.css`, the SemVer version in `package.json` should be bumped. Bumping the version afer an edit will run the `release.yml` GitHub action workflow to generate a new release tag, automatically making the new stylesheet version available via [jsDeliver](https://www.jsdelivr.com/github).
 
+You can also just use the updated `@latest` version:
+
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/firstdraft/pico.firstdraft.css@latest/pico.firstdraft.css">
+```
+
 The following external CDN links must also be included alongside ours:
 
 ```html
